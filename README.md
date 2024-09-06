@@ -1,2 +1,2 @@
 # SGRALNS
-A python implementation of our paper
+The complete code will be uploaded shortly
